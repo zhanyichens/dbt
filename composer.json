@@ -17,6 +17,6 @@
     "minimum-stability": "stable",
     "require": {
         "php": "^7.3",
-        "topthink/think": "^6.0"
+        "topthink/framework": "^6.1"
     }
 }
