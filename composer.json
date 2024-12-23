@@ -2,7 +2,7 @@
     "name": "zhanyichen/dbt",
     "description": "Dbt_Easyui_Sqlite",
     "type": "library",
-    "license": "BSD 3-Clause",
+    "license": "Apache-2.0",
     "autoload": {
         "psr-4": {
             "Zhanyichen\\Dbt\\": "src/"
