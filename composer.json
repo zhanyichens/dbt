@@ -1,0 +1,22 @@
+{
+    "name": "zhanyichen/dbt",
+    "description": "Dbt_Easyui_Sqlite",
+    "type": "library",
+    "license": "BSD 3-Clause",
+    "autoload": {
+        "psr-4": {
+            "Zhanyichen\\Dbt\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zhanyichen",
+            "email": "38627724@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^7.3",
+        "thinkphp/thinkphp": "^6.1"
+    }
+}
