@@ -1,4 +1,5 @@
 <?php
+namespace zhanyichen\dbt;
 
 class DbtObject
 {
